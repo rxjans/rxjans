@@ -11,7 +11,7 @@ Hey there! 👋 I'm Rajan Sharma, a passionate MERN Stack Developer with a focus
 
 💻 I'm versatile in working on both the frontend and backend aspects of web development, enabling me to tackle projects from conception to deployment.
 
-📫 Ready to elevate your web development projects? Feel free to reach out to me via [email/LinkedIn/Twitter], and let's create something awesome together!
+📫 Ready to elevate your web development projects? Feel free to reach out to me via email: rajan4.sharma2001@gmail.com, and let's create something awesome together!
 
 
 ## 🌐 Socials:
