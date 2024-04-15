@@ -22,7 +22,7 @@ Hey there! 👋 I'm Rajan Sharma, a passionate MERN Stack Developer with a focus
 
 <p align="center">
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rxjans&theme=dark&hide_border=false)
 
