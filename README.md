@@ -24,9 +24,9 @@ Hey there! 👋 I'm Rajan Sharma, a passionate MERN Stack Developer with a focus
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rxjans&theme=dark&hide_border=false)<br/>
 
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rxjans&icon=0&color=0)](https://visitcount.itsvg.in)
