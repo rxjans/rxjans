@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hey there! 👋 I'm Rajan Sharma, a passionate MERN Stack Developer with a focus on crafting seamless user experiences through JavaScript. At 22 years old, I've immersed myself in the world of web development, specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
 🚀 With proficiency in JavaScript libraries like React.js for frontend development and Express.js and Node.js for backend development, I've been building dynamic web applications that deliver both functionality and aesthetics.
